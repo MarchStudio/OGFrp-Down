@@ -77,8 +77,8 @@ if(!$rs) {
 									<td nowrap>x86/amd64/ARM/ARM64</td>
 									<td nowrap>Headless</td>
 									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->还木有</button></a></td>
-									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/22.01.11/OGFrp.Linux.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
-									<td nowrap><code>https://client.ogfrp.cn/OGFrp/22.01.11/OGFrp.Linux.zip</code></td>
+									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Linux.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
+									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Linux.zip</code></td>
 								</tr>
 
 							</tbody>
