@@ -64,27 +64,17 @@ if(!$rs) {
 									<td><img src="assets/download/windows.png" class="system-img"></td>
 									<td nowrap>Windows</td>
 									<td nowrap>64位</td>
-									<td nowrap>精简版</td>
-									<td nowrap><a href="https://s.threatbook.cn/report/file/ea5ed3a1b40c11f53b160299cb0feeb8f10830e88d0e5eeddcf0192fff82eae9/?env=win7_sp1_enx64_office2013" target="_blank"><button class="btn btn-sm btn-success">跳转微步</button></a></td>
-									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Lite.exe" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
-									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Lite.exe</code></td>
+									<td nowrap>命令行版</td>
+									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->还木有</button></a></td>
+									<td nowrap><a href="https://github.com/OldGodShen/OGFrp/releases/download/22.01.09/OGFrp.Lite.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
+									<td nowrap><code>https://github.com/OldGodShen/OGFrp/releases/download/22.01.09/OGFrp.Lite.zip</code></td>
 									
 								</tr>
 								<tr>
 									<td><img src="assets/download/windows.png" class="system-img"></td>
 									<td nowrap>Windows</td>
 									<td nowrap>64位</td>
-									<td nowrap>图形界面版（安装版）</td>
-									<td nowrap><a href="https://s.threatbook.cn/report/file/a9cbe68648e7c183a8c90a718bedcc8b4274aa4e9a60b0764f3e04d59f4bb9fe/?env=win7_sp1_enx64_office2013" target="_blank"><button class="btn btn-sm btn-success">跳转微步</button></a></td>
-									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.UI-Setup.exe" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
-									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.UI-Setup.exe</code></td>
-									
-								</tr>
-								<tr>
-									<td><img src="assets/download/windows.png" class="system-img"></td>
-									<td nowrap>Windows</td>
-									<td nowrap>64位</td>
-									<td nowrap>图形界面版（绿色版）</td>
+									<td nowrap>图形界面版</td>
 									<td nowrap><a href="https://s.threatbook.cn/report/file/3908e68c269b984e3c3581d7acee2172813da8c1b32577bf831e6bed48a1b9b0/?env=win7_sp1_enx64_office2013" target="_blank"><button class="btn btn-sm btn-success">跳转微步</button></a></td>
 									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.UI.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
 									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.UI.zip</code></td>
@@ -97,8 +87,8 @@ if(!$rs) {
 <td nowrap>32位</td>
 <td nowrap>Headless</td>
 <td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->还木有</button></a></td>
-<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Linux_i386.tar.xz" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
-<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Linux_i386.tar.xz</code></td>
+<td nowrap><a href="https://github.com/OldGodShen/OGFrp/releases/download/22.01.11/OGFrp.Linux.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
+<td nowrap><code>https://github.com/OldGodShen/OGFrp/releases/download/22.01.11/OGFrp.Linux.zip</code></td>
 </tr>
 
 							</tbody>
