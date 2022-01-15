@@ -66,30 +66,20 @@ if(!$rs) {
 									<td nowrap>64位</td>
 									<td nowrap>命令行版</td>
 									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->还木有</button></a></td>
-									<td nowrap><a href="https://github.com/OldGodShen/OGFrp/releases/download/22.01.09/OGFrp.Lite.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
-									<td nowrap><code>https://github.com/OldGodShen/OGFrp/releases/download/22.01.09/OGFrp.Lite.zip</code></td>
-									
-								</tr>
-								<tr>
-									<td><img src="assets/download/windows.png" class="system-img"></td>
-									<td nowrap>Windows</td>
-									<td nowrap>64位</td>
-									<td nowrap>图形界面版</td>
-									<td nowrap><a href="https://s.threatbook.cn/report/file/3908e68c269b984e3c3581d7acee2172813da8c1b32577bf831e6bed48a1b9b0/?env=win7_sp1_enx64_office2013" target="_blank"><button class="btn btn-sm btn-success">跳转微步</button></a></td>
-									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.UI.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
-									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.UI.zip</code></td>
+									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Lite.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
+									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Lite.zip</code></td>
 									
 								</tr>
 								
-<tr>
-<td><img src="assets/download/linux.png" class="system-img"></td>
-<td nowrap>Linux</td>
-<td nowrap>x86/amd64/ARM/ARM64</td>
-<td nowrap>Headless</td>
-<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->还木有</button></a></td>
-<td nowrap><a href="https://github.com/OldGodShen/OGFrp/releases/download/22.01.11/OGFrp.Linux.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
-<td nowrap><code>https://github.com/OldGodShen/OGFrp/releases/download/22.01.11/OGFrp.Linux.zip</code></td>
-</tr>
+								<tr>
+									<td><img src="assets/download/linux.png" class="system-img"></td>
+									<td nowrap>Linux</td>
+									<td nowrap>x86/amd64/ARM/ARM64</td>
+									<td nowrap>Headless</td>
+									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->还木有</button></a></td>
+									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/22.01.11/OGFrp.Linux.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
+									<td nowrap><code>https://client.ogfrp.cn/OGFrp/22.01.11/OGFrp.Linux.zip</code></td>
+								</tr>
 
 							</tbody>
 						</table>
