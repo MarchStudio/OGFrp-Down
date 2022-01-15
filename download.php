@@ -84,7 +84,7 @@ if(!$rs) {
 <tr>
 <td><img src="assets/download/linux.png" class="system-img"></td>
 <td nowrap>Linux</td>
-<td nowrap>32位</td>
+<td nowrap>x86/amd64/ARM/ARM64</td>
 <td nowrap>Headless</td>
 <td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->还木有</button></a></td>
 <td nowrap><a href="https://github.com/OldGodShen/OGFrp/releases/download/22.01.11/OGFrp.Linux.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
