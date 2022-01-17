@@ -41,14 +41,11 @@ if(!$rs) {
             <div class="col-lg-12">
                 <div class="card">
                     <div class="card-header border-0">
-                        <div class="d-flex justify-content-between">
-                            <h3 class="card-title">客户端下载   <a href="https://client.ogfrp.cn">https://client.ogfrp.cn<a></h3>
+                        <div class="d-flex">
+                            <h3 class="card-title">客户端下载<a href="https://client.ogfrp.cn">https://client.ogfrp.cn</a></h3>
                         </div>
-                    </div>
-                <div class="card">
-                    <div class="card-header border-0">
-                        <div class="d-flex justify-content-between">
-                            <h3 class="card-title">GitHub下载源   <a href="https://github.com/OldGodShen/OGFrp/releases">https://github.com/OldGodShen/OGFrp/releases<a></h3>
+                        <div class="d-flex">
+                            <h3 class="card-title">GitHub开源地址<a href="https://client.ogfrp.cn">https://github.com/OldGodShen/OGFrp/releases</a></h3>
                         </div>
                     </div>
                     <div class="card-body p-0 table-responsive">
