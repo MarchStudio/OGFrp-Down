@@ -64,7 +64,7 @@ if(!$rs) {
 								<tr>
 									<td><img src="assets/download/windows.png" class="system-img"></td>
 									<td nowrap>Windows</td>
-									<td nowrap>x86，兼容AMD64及ARM</td>
+									<td nowrap>x86，兼容AMD64及ARM64</td>
 									<td nowrap>命令行版</td>
 									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->null</button></a></td>
 									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Lite.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
