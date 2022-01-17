@@ -65,9 +65,20 @@ if(!$rs) {
 									<td nowrap>Windows</td>
 									<td nowrap>64位</td>
 									<td nowrap>命令行版</td>
-									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->还木有</button></a></td>
+									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->null</button></a></td>
 									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Lite.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
 									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Lite.zip</code></td>
+									
+								</tr>
+								
+								<tr>
+									<td><img src="assets/download/windows.png" class="system-img"></td>
+									<td nowrap>Windows</td>
+									<td nowrap>64位</td>
+									<td nowrap>GUI版</td>
+									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->null</button></a></td>
+									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.GUI.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
+									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.GUI.zip</code></td>
 									
 								</tr>
 								
@@ -75,8 +86,8 @@ if(!$rs) {
 									<td><img src="assets/download/linux.png" class="system-img"></td>
 									<td nowrap>Linux</td>
 									<td nowrap>x86/amd64/ARM/ARM64</td>
-									<td nowrap>Headless</td>
-									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->还木有</button></a></td>
+									<td nowrap>命令行版</td>
+									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->null</button></a></td>
 									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Linux.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
 									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Linux.zip</code></td>
 								</tr>
