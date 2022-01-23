@@ -43,10 +43,8 @@ if(!$rs) {
                     <div class="card-header border-0">
                         <div class="d-flex">
                             <h3 class="card-title">客户端下载<a href="https://client.ogfrp.cn">https://client.ogfrp.cn</a></h3>
-                        </div>
-                        <div class="d-flex">
                             <h3 class="card-title">GitHub开源地址<a href="https://github.com/OldGodShen/OGFrp">https://github.com/OldGodShen/OGFrp</a></h3>
-                        </div>
+                        </div>                            
                     </div>
                     <div class="card-body p-0 table-responsive">
                         <table class="download table table-striped table-valign-middle">
