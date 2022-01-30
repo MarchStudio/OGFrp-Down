@@ -41,9 +41,9 @@ if(!$rs) {
             <div class="col-lg-12">
                 <div class="card">
                     <div class="card-header border-0">
-                        <div class="d-flex">
+                        <div class="d-flex justify-content-between">
                             <h3 class="card-title">客户端下载<a href="https://client.ogfrp.cn">https://client.ogfrp.cn</a></h3>
-                            <h3 class="card-title">GitHub开源地址<a href="https://github.com/OldGodShen/OGFrp">https://github.com/OldGodShen/OGFrp</a></h3>
+                            <h3 class="card-title">GitHub下载源   <a href="https://github.com/OldGodShen/OGFrp/releases">https://github.com/OldGodShen/OGFrp/releases<a></h3>
                         </div>                            
                     </div>
                     <div class="card-body p-0 table-responsive">
@@ -93,6 +93,15 @@ if(!$rs) {
 									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Linux.zip</code></td>
 								</tr>
 
+								<tr>
+									<td><img src="assets/download/macos.png" class="system-img"></td>
+									<td nowrap>macOS</td>
+									<td nowrap>AMD64</td>
+									<td nowrap>命令行版</td>
+									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->null</button></a></td>
+									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Darwin.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
+									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Darwin.zip</code></td>
+								</tr>
 							</tbody>
 						</table>
                     </div>
