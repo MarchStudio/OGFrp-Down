@@ -7,7 +7,7 @@ $page_title = "软件下载";
 $rs = Database::querySingleLine("users", Array("username" => $_SESSION['user']));
 
 if(!$rs) {
-	exit("<script>location='?page=login';</script>");
+	exit("<script>location='/login';</script>");
 }
 ?>
 <style type="text/css">
@@ -29,7 +29,7 @@ if(!$rs) {
             <div class="col-sm-6">
                 <ol class="breadcrumb float-sm-right">
                     <li class="breadcrumb-item">
-                        <a href="?">主页</a></li>
+                        <a href="/">主页</a></li>
                     <li class="breadcrumb-item active"><?php echo $page_title; ?></li></ol>
             </div>
         </div>
@@ -62,7 +62,7 @@ if(!$rs) {
 							<tbody>
 								
 								<tr>
-									<td><img src="assets/download/windows.png" class="system-img"></td>
+									<td><img src="/assets/download/windows.png" class="system-img"></td>
 									<td nowrap>Windows</td>
 									<td nowrap>x86，兼容AMD64及ARM64</td>
 									<td nowrap>命令行版</td>
@@ -73,7 +73,7 @@ if(!$rs) {
 								</tr>
 								
 								<tr>
-									<td><img src="assets/download/windows.png" class="system-img"></td>
+									<td><img src="/assets/download/windows.png" class="system-img"></td>
 									<td nowrap>Windows</td>
 									<td nowrap>AMD64</td>
 									<td nowrap>图形界面版</td>
@@ -84,7 +84,7 @@ if(!$rs) {
 								</tr>
 								
 								<tr>
-									<td><img src="assets/download/linux.png" class="system-img"></td>
+									<td><img src="/assets/download/linux.png" class="system-img"></td>
 									<td nowrap>Linux</td>
 									<td nowrap>x86/AMD64/ARM/ARM64</td>
 									<td nowrap>命令行版</td>
@@ -94,7 +94,7 @@ if(!$rs) {
 								</tr>
 
 								<tr>
-									<td><img src="assets/download/macos.png" class="system-img"></td>
+									<td><img src="/assets/download/macos.png" class="system-img"></td>
 									<td nowrap>macOS</td>
 									<td nowrap>AMD64</td>
 									<td nowrap>命令行版</td>
