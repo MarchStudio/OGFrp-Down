@@ -1,4 +1,4 @@
-<?php
+se<?php
 namespace SakuraPanel;
 
 use SakuraPanel;
@@ -89,8 +89,8 @@ if(!$rs) {
 									<td nowrap>x86/AMD64/ARM/ARM64</td>
 									<td nowrap>命令行版</td>
 									<td nowrap><!--<a href="" target="_blank"><button class="btn btn-sm btn-success">-->null</button></a></td>
-									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Linux.zip" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
-									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Linux.zip</code></td>
+									<td nowrap><a href="https://client.ogfrp.cn/OGFrp/OGFrp.Linux.Pack.tar.gz" target="_blank"><button class="btn btn-sm btn-success">点击下载</button></a></td>
+									<td nowrap><code>https://client.ogfrp.cn/OGFrp/OGFrp.Linux.Pack.tar.gz</code></td>
 								</tr>
 
 								<tr>
