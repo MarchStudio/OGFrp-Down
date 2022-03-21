@@ -1,4 +1,4 @@
-se<?php
+<?php
 namespace SakuraPanel;
 
 use SakuraPanel;
